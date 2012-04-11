@@ -1,0 +1,3 @@
+Note: All paths in sallyrc.properties should be in Java String and OS specific format:
+in Windows, use \\ as a separator (due to string escaping) and in 
+Linux use / as a separator.
